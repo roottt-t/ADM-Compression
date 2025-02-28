@@ -1,1 +1,1 @@
-Advanced Data Management Compression Implementation
+Advanced Data Management Compression
